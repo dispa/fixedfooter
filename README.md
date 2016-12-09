@@ -1,4 +1,4 @@
-Demo: http://dispa.github.com/fixfooter/
+Demo: http://dispa.github.io/fixfooter/
 
 <br />
 <h1>fixfooter</h1>
