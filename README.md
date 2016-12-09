@@ -26,4 +26,4 @@ $(".fixedfooter-footer").fixedfooter();
 
 <h2>Options:</h2>
 <br />
-* container (jQuery element): The container element. Default: $(".fixedfooter-container")
+* container (jQuery element): The container element. <i>Default: $(".fixedfooter-container")</i>
