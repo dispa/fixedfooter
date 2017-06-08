@@ -11,7 +11,7 @@ HTML<br />
 <body>
 <div class="fixfooter-container">
 	Content
-	<footer class="fixfooter-footer">
+	<div class="fixfooter-footer">
 		Footer
 	</div>
 </div>
