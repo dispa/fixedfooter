@@ -1,12 +1,11 @@
-Demo: http://dispa.github.io/fixfooter/
+#fixfooter
 
-<br />
-<h1>fixfooter</h1>
+##Demo: http://dispa.github.io/fixfooter/
+
 A jQuery plugin to make footer element glued at the bottom of page.
-<br /><br />
-<h2>Usage:</h2>
-<br />
-HTML<br />
+
+##Usage:
+
 ```html
 <body>
 <div class="fixfooter-container">
@@ -17,13 +16,10 @@ HTML<br />
 </div>
 </body>
 ```
-<br />
-JavaScript<br />
+
 ```javascript
 $(".fixfooter-footer").fixfooter();
 ```
-<br />
+##Options:
 
-<h2>Options:</h2>
-<br />
 * container (jQuery element): The container element. <i>Default: $(".fixfooter-container")</i>
