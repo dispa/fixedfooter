@@ -27,5 +27,5 @@ $(".fixfooter-footer").fixfooter();
 
 ## Options:
 
-### `container` (jQuery element)
+#### `container` (jQuery element)
 The container element. <i>Default: $(".fixfooter-container")</i>
