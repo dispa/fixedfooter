@@ -19,7 +19,7 @@ http://dispa.github.io/fixfooter/
 </div>
 </body>
 ```
-`JavaScript`
+`javascript`
 ```javascript
 $(".footer").fixfooter();
 ```
