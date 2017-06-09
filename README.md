@@ -13,7 +13,7 @@ http://dispa.github.io/fixfooter/
 <body>
 <div class="fixfooter-container">
 	Content
-	<div class="fixfooter-footer">
+	<div class="footer">
 		Footer
 	</div>
 </div>
@@ -21,7 +21,7 @@ http://dispa.github.io/fixfooter/
 ```
 `JavaScript`
 ```javascript
-$(".fixfooter-footer").fixfooter();
+$(".footer").fixfooter();
 ```
 
 
