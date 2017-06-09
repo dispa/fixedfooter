@@ -8,7 +8,7 @@ http://dispa.github.io/fixfooter/
 
 
 ## Usage:
-`HTML`
+`HTML:`
 ```html
 <body>
 <div class="fixfooter-container">
@@ -19,7 +19,7 @@ http://dispa.github.io/fixfooter/
 </div>
 </body>
 ```
-`javascript`
+`javascript:`
 ```javascript
 $(".footer").fixfooter();
 ```
